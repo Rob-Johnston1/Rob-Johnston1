@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rob-Johnston1
+- 👀 I work as a Delivery Manager and I am an experienced Scrum Master
+- 🌱 I’m currently learning to become a full-stack JavaScript developer
